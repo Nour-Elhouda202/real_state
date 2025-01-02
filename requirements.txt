@@ -3,3 +3,4 @@ psycopg
 django
 pillow
 django-bootstrap5
+whitenoise[brotli]
